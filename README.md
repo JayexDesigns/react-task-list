@@ -1,4 +1,4 @@
-<h3 align="center"><img src='https://github.com/JayexDesigns/react-task-list/blob/main/public/favicon.png' width='15%'></h3>
+<h3 align="center"><img src='https://raw.githubusercontent.com/JayexDesigns/react-task-list/main/public/favicon.png' width='15%'></h3>
 <h1 align="center">React Task List</h1>
 <p align="center">This is my first React app, I wanted to do a simple task list application</p>
 <br/>
